@@ -5,7 +5,7 @@
 .timeline {
   border-left: 2px solid #E6E9ED;
   padding: 1rem 0; }
-.mlinks{color:red;}
+a.mlinks{color:red;}
 .timeline-card {
   position: relative;
   margin-left: 31px;
