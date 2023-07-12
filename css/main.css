@@ -1,7 +1,7 @@
 /* Buttons */
 /* Inputs */
 /* Timeline custom component */
-*::selection{background-color: yellow; color: red;}
+*::selection{background-color:#33B5FF ; color: white;}
 .timeline {
   border-left: 2px solid #E6E9ED;
   padding: 1rem 0; }
