@@ -96,9 +96,7 @@ transition: transform 1s;}
   margin-left: auto;
   margin-right: auto; }
 
-.avatar img {
-  /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%); }
+.avatar img {}
 
 footer a:not(.nav-link) {
   color: inherit;
